@@ -1,0 +1,10 @@
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\obj\Debug\Binary Heap Tree.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\obj\Debug\Binary_Heap_Tree.Form1.resources
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\obj\Debug\Binary_Heap_Tree.Properties.Resources.resources
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\obj\Debug\Binary Heap Tree.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\obj\Debug\Binary Heap Tree.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\bin\Debug\Binary Heap Tree.exe.config
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\bin\Debug\Binary Heap Tree.exe
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\bin\Debug\Binary Heap Tree.pdb
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\obj\Debug\Binary Heap Tree.exe
+C:\Users\melik\source\repos\Binary Heap Tree\Binary Heap Tree\obj\Debug\Binary Heap Tree.pdb

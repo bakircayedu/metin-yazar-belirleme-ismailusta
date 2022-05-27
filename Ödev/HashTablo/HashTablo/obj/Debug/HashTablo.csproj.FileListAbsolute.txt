@@ -1,0 +1,10 @@
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\bin\Debug\HashTablo.exe.config
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\bin\Debug\HashTablo.exe
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\bin\Debug\HashTablo.pdb
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\obj\Debug\HashTablo.csproj.AssemblyReference.cache
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\obj\Debug\HashTablo.Properties.Resources.resources
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\obj\Debug\HashTablo.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\obj\Debug\HashTablo.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\obj\Debug\HashTablo.exe
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\obj\Debug\HashTablo.pdb
+C:\Users\90536\Desktop\Ödev\HashTablo\HashTablo\obj\Debug\HashTablo.v.resources
